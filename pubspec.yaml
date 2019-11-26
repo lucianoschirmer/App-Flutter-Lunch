@@ -28,8 +28,14 @@ dependencies:
   intl: ^0.16.0
 
 dev_dependencies:
+  flutter_launcher_icons: "^0.7.3"
   flutter_test:
     sdk: flutter
+
+flutter_icons:
+  android: true 
+  ios: true
+  image_path: "assets/icon/launcher_icon.svg"
 
 
 # For information on the generic Dart part of this file, see the
